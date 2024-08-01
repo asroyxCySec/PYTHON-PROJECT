@@ -1,1 +1,27 @@
+# Langkah 1: Persiapan
+# Buat file Python baru, misalnya: shopping_list_manager.py
+
+# Langkah 2: Membuat Struktur Dasar
+# Buat struktur dasar untuk aplikasi dengan menu interaktif.
+![image](https://github.com/user-attachments/assets/612ed727-e4aa-4c3d-8180-5f48b51f99ba)
+
+# Langkah 3: Fungsi untuk Menambah Item
+# Buat fungsi untuk menambah item ke daftar belanja.
+![image](https://github.com/user-attachments/assets/ce179e98-55ee-42aa-8fad-4cea4db39d04)
+
+# Langkah 4: Fungsi untuk Menghapus Item
+# Buat fungsi untuk menghapus item dari daftar belanja.
+![image](https://github.com/user-attachments/assets/055c391f-3c2e-4902-a1a4-a8da7810fc94)
+
+# Langkah 5: Fungsi untuk Melihat Daftar Belanja
+# Buat fungsi untuk melihat semua item dalam daftar belanja.
+![image](https://github.com/user-attachments/assets/f27d2019-05e1-4acd-affa-1ace55515184)
+
+# Langkah 6: Menjalankan Aplikasi
+# Gabungkan semua fungsi di atas dalam file shopping_list_manager.py dan jalankan aplikasi.
+![image](https://github.com/user-attachments/assets/4f602024-d12b-4a0d-ad30-ce50e2c29210)
+![image](https://github.com/user-attachments/assets/a6b539c3-71ce-4595-8a9e-c26829b25d05)
+
+
+
 
